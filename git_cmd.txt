@@ -20,12 +20,6 @@ git pull origin main/master
 git remote set-url origin link
 
 
-
-
-
-
-
-
 git branch
 git checkout master  # to switch
 
