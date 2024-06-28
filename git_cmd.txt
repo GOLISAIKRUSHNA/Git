@@ -18,6 +18,7 @@ git pull origin main/master
 
 
 git remote set-url origin link
+ git remote set-url origin https://github.com/GOLISAIKRUSHNA/React_Firebase_Signup_db.git
 
 
 git branch
