@@ -18,11 +18,15 @@ git pull origin main/master
 
 
 git remote set-url origin link
- git remote set-url origin https://github.com/GOLISAIKRUSHNA/React_Firebase_Signup_db.git
+git remote set-url origin https://github.com/GOLISAIKRUSHNA/React_Firebase_Signup_db.git
 
 
-git branch
+git branch branch-name
 git checkout master  # to switch
+
+***********************
+git checkout -b branch-name  //also created
+
 
 
 
